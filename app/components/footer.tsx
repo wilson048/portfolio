@@ -19,7 +19,7 @@ export default function Footer()
                 className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href=""
+                href="https://github.com/wilson048"
             >
                 {/* <ArrowIcon /> */}
                 <p className="ml-2 h-7">github</p>
