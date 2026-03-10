@@ -27,7 +27,7 @@ export default function Footer()
                     key="https://github.com/wilson048"
                     href="https://github.com/wilson048"
                     className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100">
-                    <p className="ml-2 h-7">rss</p>
+                    <p className="ml-2 h-7">github</p>
                 </Link>
             {/* <a
                 className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
@@ -44,7 +44,7 @@ export default function Footer()
                     key=""
                     href=""
                     className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100">
-                    <p className="ml-2 h-7">rss</p>
+                    <p className="ml-2 h-7">view source</p>
                 </Link>
             {/* <a
                 className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
